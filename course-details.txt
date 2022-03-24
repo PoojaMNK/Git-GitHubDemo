@@ -1,5 +1,6 @@
 Welcome to learning tutorials
 
-DevOps tech
+DevOps 
 AWS
 Azure
+cloud
